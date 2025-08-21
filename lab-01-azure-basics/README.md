@@ -1,16 +1,35 @@
-# Lab 01 – Azure Basics  
+# ☁️ Cloud Labs Portfolio  
 
-## 🎯 Objective  
-Deploy a Resource Group, VM, and Storage Account in Azure.  
+Hi, I’m [Your Name]!  
+I’m pivoting from IT Support into Cloud Engineering and documenting my journey here.  
+This repo contains my Azure + M365 hands-on labs, projects, and notes.  
 
-## 🛠️ Steps  
-1. Created a Resource Group in Azure Portal.  
-2. Deployed a Windows 11 VM.  
-3. Created a Storage Account.  
+---
 
-## 📸 Screenshots  
-(To be added later)  
+## 🚀 Current Focus
+- Microsoft Azure Administration (AZ-104)  
+- Microsoft 365 & Endpoint (MD-102)  
+- Intune, Autopilot, Conditional Access  
 
-## ✅ Outcome  
-- VM deployed successfully.  
-- Learned how Resource Groups structure resources in Azure.
+---
+
+## 📂 Labs & Projects  
+
+1. [Lab 01 – Azure Basics](./lab-01-azure-basics/README.md)  
+   - Created Resource Group, VM, and Storage  
+   - Configured RBAC + Resource Locks  
+
+(More labs coming soon 🚀)  
+
+---
+
+## 🛠️ Tech Stack
+- Azure Portal, Azure CLI, PowerShell  
+- Microsoft Intune, Entra ID (Azure AD)  
+- GitHub for documentation  
+
+---
+
+## 📬 Connect With Me
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- [GitHub](https://github.com/YOUR-USERNAME)
