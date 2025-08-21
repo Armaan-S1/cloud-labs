@@ -1,6 +1,6 @@
 # ☁️ Cloud Labs Portfolio  
 
-Hi, I’m [Your Name]!  
+Hi, I’m Armaan!  
 I’m pivoting from IT Support into Cloud Engineering and documenting my journey here.  
 This repo contains my Azure + M365 hands-on labs, projects, and notes.  
 
@@ -31,5 +31,5 @@ This repo contains my Azure + M365 hands-on labs, projects, and notes.
 ---
 
 ## 📬 Connect With Me
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- [LinkedIn](https://www.linkedin.com/in/armaan-shazad-9632b5197/)  
 - [GitHub](https://github.com/YOUR-USERNAME)
