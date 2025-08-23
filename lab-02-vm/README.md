@@ -44,13 +44,13 @@
 (Taken from Azure Portal after VM creation in Sandbox)  
 
 - Resource Group learn-b9a390af-e8e6-4376-b65e-59bcc8f76ad3 ✅
-<img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/7c9c3c08-e42e-4401-bbaf-8961c265d2be" />
- - VM Overview page ✅
-<img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/ea28f1d9-af7a-427f-acb2-85f5d895e814" />
- - Networking tab ✅
-<img width="1311" height="775" alt="image" src="https://github.com/user-attachments/assets/d49187f2-58bb-4939-b807-576463abf2ad" />
- - Connect → RDP screen ✅
-<img width="1324" height="842" alt="image" src="https://github.com/user-attachments/assets/dd50c3e3-9130-4cf4-aec9-5a63b68b8f42" />
+  <img width="940" height="452" alt="image" src="https://github.com/user-attachments/assets/7c9c3c08-e42e-4401-bbaf-8961c265d2be" />
+- VM Overview page ✅
+  <img width="940" height="624" alt="image" src="https://github.com/user-attachments/assets/ea28f1d9-af7a-427f-acb2-85f5d895e814" />
+- Networking tab ✅
+  <img width="1311" height="775" alt="image" src="https://github.com/user-attachments/assets/d49187f2-58bb-4939-b807-576463abf2ad" />
+- Connect → RDP screen ✅
+  <img width="1324" height="842" alt="image" src="https://github.com/user-attachments/assets/dd50c3e3-9130-4cf4-aec9-5a63b68b8f42" />
   
 
 ---
