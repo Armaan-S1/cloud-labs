@@ -7,13 +7,13 @@ This repo documents my progress through *Azure Fundamentals (AZ-900)* and hands-
 
 ## 📚 AZ-900 Learning Progress
 - [x] Module 1: Describe Cloud Concepts  
-- [ ] Module 2: Describe Azure Architecture and Services  
-- [ ] Module 3: Describe Azure Management and Governance  
+- [x] Module 2: Describe Azure Architecture and Services  
+- [x] Module 3: Describe Azure Management and Governance  
 
 ## 🧪 Hands-on Labs
 - [x] [Lab 01 – Create Resource Group + Storage Account](./lab-01-azure-basics/README.md)  
-- [ ] Lab 02 – Create a Virtual Machine (coming soon)  
-- [ ] Lab 03 – Configure Networking (coming soon)
+- [x] Lab 02 – Create a Virtual Machine  
+- [x] Lab 03 – Configure Networking
 
 ## 📬 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/armaan-shazad-9632b5197/) 
