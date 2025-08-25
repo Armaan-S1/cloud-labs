@@ -24,7 +24,8 @@ Use the Azure Pricing Calculator to estimate costs and explore SLA guarantees.
 - Reviewed billing scopes and available reports.
 
 📸 Screenshot: Azure Portal Cost Management overview.  
-![cost management](screenshots/cost-management.png)
+<img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/45001af5-594e-4ba9-b167-109404bd018b" />
+
 
 ---
 
@@ -36,7 +37,8 @@ Use the Azure Pricing Calculator to estimate costs and explore SLA guarantees.
 - Understood how SLAs combine when multiple services are used.
 
 📸 (Optional) Screenshot: Azure SLA documentation page.  
-![sla](screenshots/sla.png)
+<img width="940" height="257" alt="image" src="https://github.com/user-attachments/assets/297abcae-51b7-4db1-b210-66bd0c3c788a" />
+
 
 ---
 
