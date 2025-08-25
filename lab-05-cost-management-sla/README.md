@@ -15,7 +15,7 @@ Use the Azure Pricing Calculator to estimate costs and explore SLA guarantees.
 - Reviewed estimated monthly costs.
 
 📸 Screenshot: Pricing calculator showing VM + storage estimate.  
-![pricing calculator](screenshots/pricing-calculator.png)
+<img width="940" height="159" alt="image" src="https://github.com/user-attachments/assets/04bd8b97-b1ed-4fd0-8986-9718a060bf2c" />
 
 ---
 
