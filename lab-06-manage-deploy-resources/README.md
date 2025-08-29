@@ -25,5 +25,5 @@ In this lab, I explored different tools for managing and deploying resources in 
 - Ran the command:
   ```powershell
   Get-AzResourceGroup
-  
-  <img width="940" height="160" alt="image" src="https://github.com/user-attachments/assets/eaf9a51c-f773-473a-8593-3e7cd0ed7c1f" />
+- <img width="940" height="160" alt="image" src="https://github.com/user-attachments/assets/67f30bd4-10c2-4677-9e27-b3460df3c147" />
+
