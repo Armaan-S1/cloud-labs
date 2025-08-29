@@ -16,7 +16,7 @@ In this lab, I explored different tools for managing and deploying resources in 
 - Navigated to the Azure Portal.
 - Viewed existing Resource Groups and Resources.
 - Took a screenshot of the Resource Groups blade.
-- <img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/dd288545-a12e-4575-b6b4-374446ab5904" />
+  <img width="940" height="373" alt="image" src="https://github.com/user-attachments/assets/dd288545-a12e-4575-b6b4-374446ab5904" />
 
 
 ### 2. Azure Cloud Shell
